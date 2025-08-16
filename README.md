@@ -17,3 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 >>>>>>> cec3896 (All Changes)
 # MY-APP
 # MY-APP
+# WeatherAPI
