@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../.."
+	}
+],
+  "settings": {
+    "java.project.sourcePaths": ["Hotel Managemet System1\\src"],
+    "java.project.referencedLibraries": [
+      "Hotel Managemet System1\\nbproject\\lib\\mysql-connector-j-8.1.0\\mysql-connector-j-8.1.0.jar"
+    ]
+  }
+}

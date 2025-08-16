@@ -1,0 +1,61 @@
+/* NAVBAR STYLES */
+.navbar {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: var(--background, #ffffff);
+  color: var(--text, #333333);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 40px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  z-index: 999;
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--primary, #00bcd4);
+  cursor: pointer;
+  letter-spacing: 1px;
+  transition: color 0.3s ease;
+}
+
+.logo:hover {
+  color: #0097a7;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  align-items: center;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: var(--text, #333);
+  font-weight: 500;
+  transition: color 0.3s ease, transform 0.3s;
+  cursor: pointer;
+}
+
+.nav-links li a:hover {
+  color: var(--primary, #00bcd4);
+  transform: translateY(-2px);
+}
+
+.dark-btn {
+  font-size: 1.2rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 6px 10px;
+  transition: transform 0.3s ease;
+}
+
+.dark-btn:hover {
+  transform: rotate(10deg);
+}
