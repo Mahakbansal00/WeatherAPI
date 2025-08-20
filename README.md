@@ -20,5 +20,5 @@ VITE_WEATHER_API_KEY=your_api_key_here
 Run the development server:
 npm run dev
 
-<img width="1440" height="900" alt="Screenshot 2025-08-16 at 12 55 52" src="https://github.com/user-attachments/assets/a676c68e-98cb-48e7-b626-4bf59e541d47" />
+<img width="1440" height="900" alt="Screenshot 2025-08-16 at 12 55 52" src="/Users/mahak/Desktop/WeatherAPI/Screenshot 2025-08-19 at 12.43.16.png" />
 
